@@ -1964,3 +1964,10 @@
 - Place: New Delhi, Delhi, India
 - Bio: Undergraduate Student
 - Github: [Aman1919](https://github.com/Aman1919)
+
+
+#### Name: [Priyanshu Anand]((https://github.com/priyanshuanand166))
+
+- Place: KOLKATA, WEST BENGAL, INDIA
+- Bio: I am Engineering Final Year student pursuing Engineering from MAKAUT.
+- GitHub: [Priyanshu Anand]((https://github.com/priyanshuanand166))
